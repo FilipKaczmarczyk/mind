@@ -8,4 +8,3 @@ function triangleArea(a, b, c) {
       return x;
     }
 }
-console.log(triangleArea(5,1,4));
